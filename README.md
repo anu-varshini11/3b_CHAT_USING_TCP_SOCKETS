@@ -34,8 +34,10 @@ while True:
 	c.send(msg.encode())
 ```
 ## OUPUT
+## Client
 ![Screenshot from 2024-10-22 09-17-18](https://github.com/user-attachments/assets/920804b3-6a34-4041-a154-1697b1499732)
 
+## Server
 ![Screenshot from 2024-10-22 09-17-23](https://github.com/user-attachments/assets/dd2b8dcd-365d-43fd-ba4c-4229d0a3cd77)
 
 
